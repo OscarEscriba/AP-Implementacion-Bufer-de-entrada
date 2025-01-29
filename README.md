@@ -9,3 +9,12 @@ Todo esto con la finalidad de procesar el texto de manera eficiente. La entrada 
 Entonces en resumen podemos decir que el codigo simula un búfer de entrada con un tamaño fijo de 10 caracteres para procesar texto de manera eficiente.
 Utiliza dos punteros: inicio, que indica desde dónde se carga el búfer, y avance, que recorre los caracteres dentro del búfer. Se identifican lexemas (palabras separadas por espacios) 
 y se imprimen conforme se procesan. Cuando el búfer se llena, se recarga con la siguiente porción del texto hasta alcanzar el final, marcado con "eof".
+
+#Ejemplo de salida del codigo
+### Entrada
+![image](https://github.com/user-attachments/assets/1ea2fc9a-c869-4563-b507-7f899dea201f)
+### Salida
+![image](https://github.com/user-attachments/assets/78550f6b-ece8-41d8-a6a2-8ff45042384a)
+
+
+
